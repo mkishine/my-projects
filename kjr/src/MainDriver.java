@@ -1,3 +1,6 @@
+/*
+ * Important comment
+ */
 import java.awt.Color;
 
 import kareltherobot.Directions;
